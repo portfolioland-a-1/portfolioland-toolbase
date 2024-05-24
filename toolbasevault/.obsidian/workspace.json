@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "ab0872409718c385",
+    "type": "split",
+    "children": [
+      {
+        "id": "35a22d34e176e168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e66b15b35a3094d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0001_Entwicklung/Feature-List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b193ed747c2f792c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0002_Tools/Tools/svelteflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3836713f9555b598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0002_Tools/Tools/Design/Spark-Joy-Lib.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b0f75d1e147afef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62e0875dfa96c15d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0002_Tools/Tools/Datenbanken/LocalStorage, SessionStorage, IndexedDB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1add90e0a02229b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0001_Entwicklung/0000_Konzept/Drag and Drop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09de428d3b46e538",
+    "type": "split",
+    "children": [
+      {
+        "id": "d583ad8be8caf70a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5f2bbbd41ed7c60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93e12e69b9ba3849",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e190372129501733",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "e3e98cf9e664c3d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "06466adc1a3da651",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c478b2d3c815efc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "850abe9655a87b7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "817cbed41a219c1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "917c80a6fca179e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "6b0f75d1e147afef",
+  "lastOpenFiles": [
+    "0002_Tools/Art/Generic Exhibition Plattform.md",
+    "0002_Tools/Art/GWEI.md",
+    "0002_Tools/Art/newart city.md",
+    "0002_Tools/Archiv/Madek.md",
+    "0002_Tools/Archiv/Archiv Kunsthochschule Kassel.md",
+    "0002_Tools/Konzepte/Snake oil.md",
+    "0002_Tools/Konzepte/UI UX.md",
+    "0002_Tools/Konzepte/Optimistic UI.md",
+    "0002_Tools/Konzepte/Permakultur.md",
+    "0002_Tools/Konzepte/Organic Software.md",
+    "0002_Tools/Konzepte/Open Source.md",
+    "0002_Tools/Konzepte/Force Directed Graph.md",
+    "0002_Tools/Konzepte/Richtext Editor.md",
+    "0002_Tools/Konzepte/SAML-Protokol.md",
+    "0002_Tools/Konzepte/Static Site Renderer.md",
+    "0002_Tools/Konzepte/WYSIWYG.md",
+    "0002_Tools/Konzepte/Web Components.md",
+    "0002_Tools/Konzepte/Frontend.md",
+    "0002_Tools/Konzepte/Hypertext.md",
+    "0002_Tools/Konzepte/REST.md",
+    "0002_Tools/Konzepte/DOI.md",
+    "0002_Tools/Konzepte/Design System.md",
+    "0002_Tools/Konzepte/CRUD.md",
+    "0002_Tools/Konzepte/Database.md",
+    "0002_Tools/Konzepte/Backend.md",
+    "0002_Tools/Konzepte/API.md",
+    "0002_Tools/Archiv/Bilder/Archivplan.svg",
+    "0002_Tools/Archiv/Bilder",
+    "0002_Tools/Archiv/Bilder/ViskomStrukWS2021_22 1.jpeg",
+    "0002_Tools/Archiv/Bilder/Mindmap_Viskom_Archiv01.jpg",
+    "0002_Tools/Archiv",
+    "0002_Tools/Tools/CSS",
+    "0001_Entwicklung/0001_Design/Medien/Frame 7891.png",
+    "0002_Tools/Tools/Hosting",
+    "0002_Tools/Tools/Insights",
+    "0001_Entwicklung/0001_Design/Medien/toggles.png",
+    "0001_Entwicklung/0000_Konzept",
+    "www.instagram.com",
+    "Unbenannt",
+    "0001_Entwicklung/0001_Design/Components",
+    "0001_Entwicklung/0001_Design/Medien/Button delete.png",
+    "0001_Entwicklung/0001_Design/Medien/Toggel Right LIGHT MODE2.png",
+    "0001_Entwicklung/0001_Design/Medien/Toggel Right LIGHT MODE.png",
+    "0001_Entwicklung/0001_Design/Medien/Login Private LIGHTMODE.png",
+    "0001_Entwicklung/0001_Design/Medien/Button LIGHT MODE.png",
+    "0001_Entwicklung/0001_Design/Medien"
+  ]
+}

@@ -1,0 +1,1 @@
+https://metonym.github.io/svelte-toggle/
