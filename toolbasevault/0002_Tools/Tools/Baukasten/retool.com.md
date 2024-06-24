@@ -9,7 +9,7 @@ date: 2022-10-19 @ 10:29
 
 # [[retool.com]]
 
-Retool ermöglicht es uns schnell und einfach per drag and drop Frontend UI für [[Database|Datenbank]]zu erstellen. Es benutzt dabei einen [[WYSIWYG]]-Editor wie [[Webflow]]
+Retool ermöglicht es uns schnell und einfach per drag and drop Frontend UI für [[Database|Datenbank]] zu erstellen. Es benutzt dabei einen [[WYSIWYG]]-Editor wie [[Webflow]]
 
 Paid
 

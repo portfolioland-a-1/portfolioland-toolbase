@@ -15,7 +15,7 @@ Linked to  [[Database|Datenbank]]
 ## short description
 A robust & multipurpose Graph object for JS & TypeScript.
 
-Used by[[sigma.js]] as Backend for data 
+Used by [[sigma.js]] as Backend for data 
 ___
 https://github.com/graphology/graphology
 

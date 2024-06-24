@@ -2,7 +2,6 @@
 tags:
   - devdep
 ---
-
 Mit Fast-Sort lässt sich ein Array sortieren. In die Funktionen  sort.asc() oder sort.desc() lassen sich weitere Funktionen einfügen, um zu bestimmen nach welchen Kriterien sortiert werden soll.
 
 

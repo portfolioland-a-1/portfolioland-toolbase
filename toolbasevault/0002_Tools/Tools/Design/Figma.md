@@ -6,11 +6,7 @@ date: "2022-10-14 @ 17:55"
 ---
 # [[Figma]]
 
-![[Pasted image 20221014180311.png|center]]
-
-Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows. [Wikipedia](https://en.wikipedia.org/wiki/Figma_(software))
-
-[[UX_UI]]
+Figma ist eine kollaborative Designsoftware, die sich spezialisiert hat auf Webinterface-Design. Sie kann im Web und auf dem Desktop genutzt werden.
 
 https://www.figma.com/
 

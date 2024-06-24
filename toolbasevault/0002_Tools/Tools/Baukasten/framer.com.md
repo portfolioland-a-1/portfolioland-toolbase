@@ -1,8 +1,3 @@
----
-tags: - Websitebaukasten
-alias:
-date: 2022-12-26 @ 21:21
----
 
 Website-[[Baukasten]] 
 
@@ -14,4 +9,3 @@ Preislich startet Framer bei 5 € im Monat. Für eine Landingpage mit Custom-Do
 Readymade Designs https://framer.supply/
 
 <iframe style="width: 100%; height: 1000px; overflow: hidden; background: #FFFF"  src=" https://framer.supply/" width="100" height="100" scrolling="no">Iframes not supported</iframe>
-#
