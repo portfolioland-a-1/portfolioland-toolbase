@@ -1,3 +1,17 @@
+# Context
+This is a collection of tools and important concepts that emerged during the development of "Portfolioland." "Portfolioland" is a tool that enables students of the Kunsthochschule Kassel to independently present their work on a website.
+
+In this repository (ToolBase), you will find, in addition to the design system and development dependencies, a range of tools and concepts gathered during the research phase.
+
+For example, under [[0002_Tools]], you will find an entry on the [[Generic Exhibition Platform]], a virtual exhibition space whose architecture consists of digital three-dimensional exhibition pieces that programmatically rearrange themselves in the space according to a recommendation algorithm. There is also an entry on [[cargo.site]], the website building system designed by and for designers. Under the main topic Concepts, you will find information on various concepts that appear in web development, such as [[Database|Databases]] or the [[Design System]] (which plays a role in the development of [[0001_Designsystem "Portfolioland"|"Portfolioland"]]). Under Tools, you can find information on various [[2_CMS|CMS]], such as [[Kirby CMS|Kirby]], [[Directus]], [[Strapi]], or [[WordPress]].
+
+The development was carried out as part of a third-party funded project of the University of Kassel and the Kunsthochschule Kassel titled "Digital Portfolio and Exhibition Formats" and was supported by the foundation "Innovation in der Hochschullehre"
+
+Status: 19.03.24
+
+The ToolBase was created using the MD text editor Obsidian (obsidian.md), which uses a modified form of GitHub Markdown.
+
+
 # Einleitende Worte und Kontextualisierung der ToolBase
 
 Dies ist eine Sammlung von Tools und wichtigen Konzepten, die während der Entwicklung von "Portfolioland" entstanden ist. "Portfolioland" ist ein Tool, das es den Studierenden der Kunsthochschule Kassel ermöglicht, ihre Arbeiten eigenständig auf einer Webseite zu präsentieren.
